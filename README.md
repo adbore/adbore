@@ -14,7 +14,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         |                    Associated Project                                 |
 |-----------------------------------------------|-----------------------------------------------------------------------|
-| Building AI Malware Analysis With REMnux | <a href="https://google.com">Malware AI Analysis Lab</a>|
+| Building AI Malware Analysis With REMnux | <a href="https://github.com/adbore/Malware-AI-Analysis-Lab/tree/main/">Malware AI Analysis Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
