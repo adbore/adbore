@@ -51,5 +51,5 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 
 ## Projects
-- <a href="https://github.com/adbore/Malware-AI-Analysis-Lab/tree/main/">Malware AI Analysis Lab</a>
+- <a href="https://github.com/adbore/Malware-AI-Analysis-Lab/tree/main/">Malware AI Driven Analysis</a>
 - SOC Automation Project
